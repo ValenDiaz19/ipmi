@@ -1,3 +1,4 @@
+//Diaz Valentina Comision 2
 PImage img;
 void setup (){ 
   size (800,400);
